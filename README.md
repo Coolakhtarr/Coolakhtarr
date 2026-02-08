@@ -26,7 +26,10 @@ A computer vision–based system that tracks physical activities and provides pe
 Machine learning models used to predict water quality parameters through data analysis and predictive modeling.
 
 ### 🤖 AI/ML Research Internship 
-A collection of AI and Machine Learning implementations, experiments, and applied research work.
+- Worked on **replicating AI/ML research papers**, analyzing datasets, and building machine learning models.
+- Implemented **SVM, Random Forest, and Logistic Regression** models to predict outcomes and evaluate model performance using **cross-validation**.
+- Created **data preprocessing pipelines, visualizations, and research reports** using **Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook**.
+
 
 ### 🌍 Empower Donation Platform with Chatbot  
 A donation platform integrated with an intelligent chatbot to assist users, answer queries, and improve engagement for social causes.
