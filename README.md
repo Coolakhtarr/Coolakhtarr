@@ -17,13 +17,13 @@
 ## 📌 Featured Projects
 
 ### 🧠 Mental Health Companion Chatbot  
-An AI-powered chatbot designed to provide supportive conversations and mental wellness assistance using natural language processing.
+AI-powered chatbot designed to support student mental well-being by detecting emotions using **sentiment analysis** and providing empathetic, motivational responses. Built with **Python**, **Streamlit**, and **Google Gemini LLM**, the project includes crisis detection, session-based privacy, and mental health **statistics visualization** using Altair. This project demonstrates hands-on experience with **NLP, conversational AI, and real-world AI deployment.**
 
 ### 🏋️ Personal Fitness Tracker  
-A computer vision–based system that tracks physical activities and provides performance insights using AI and Python.
+Developed an AI-powered fitness tracker using **Python, Pandas, Matplotlib, and AI/ML**, enabling activity tracking, progress **visualization**, and actionable health insights.
 
 ### 💧 Water Quality Prediction  
-Machine learning models used to predict water quality parameters through data analysis and predictive modeling.
+A **machine learning** project developed during the AICTE Virtual Internship (sponsored by Shell) to predict multiple water quality parameters such as O₂, NO₃, SO₄, PO₄, and Cl using **MultiOutputRegressor** with **RandomForestRegressor.** The model was trained on real-world datasets, evaluated using R² and MSE, and deployed with **Streamlit** for interactive predictions.
 
 ### 🤖 AI/ML Research Internship 
 - Worked on **replicating AI/ML research papers**, analyzing datasets, and building machine learning models.
@@ -32,7 +32,7 @@ Machine learning models used to predict water quality parameters through data an
 
 
 ### 🌍 Empower Donation Platform with Chatbot  
-A donation platform integrated with an intelligent chatbot to assist users, answer queries, and improve engagement for social causes.
+A responsive donation platform that allows users to explore charitable projects, make secure donations, download receipts, and interact with a **Tidio chatbot** for instant assistance. Built with **HTML, CSS, JavaScript, PHP, and MySQL.**
 
 ---
 
