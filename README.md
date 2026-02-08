@@ -37,10 +37,12 @@ A responsive donation platform that allows users to explore charitable projects,
 ---
 
 ## 🚀 What I Do
-- Build AI-powered applications  
-- Develop intelligent automation systems  
-- Work on data-driven problem solving  
-- Create software solutions from idea to deployment  
+- Build software and web applications  
+- Develop AI and Machine Learning models for real-world problems  
+- Work on data-driven projects and predictive analytics  
+- Create automation tools and practical software solutions  
+- Explore new technologies and apply them to projects  
+- Turn ideas into working, deployable applications
 
 ---
 
