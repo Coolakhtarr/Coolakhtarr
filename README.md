@@ -25,7 +25,7 @@ A computer vision–based system that tracks physical activities and provides pe
 ### 💧 Water Quality Prediction  
 Machine learning models used to predict water quality parameters through data analysis and predictive modeling.
 
-### 🤖 AI/ML Research Internship Projects  
+### 🤖 AI/ML Research Internship 
 A collection of AI and Machine Learning implementations, experiments, and applied research work.
 
 ### 🌍 Empower Donation Platform with Chatbot  
