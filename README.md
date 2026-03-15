@@ -1,4 +1,4 @@
-# Hi, I'm Umar Akhtar 👋
+# Hi, I'm Umar Akhtar 
 
 💻 Software Developer building intelligent systems and real-world technology solutions  
 
